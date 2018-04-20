@@ -1,0 +1,9 @@
+C:\Users\wen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Receiver\bin\Debug\Receiver.exe.config
+C:\Users\wen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Receiver\bin\Debug\Receiver.exe
+C:\Users\wen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Receiver\bin\Debug\Receiver.pdb
+C:\Users\wen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Receiver\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\wen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Receiver\bin\Debug\RabbitMQ.Client.dll
+C:\Users\wen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Receiver\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\wen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Receiver\bin\Debug\RabbitMQ.Client.xml
+C:\Users\wen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Receiver\obj\Debug\Receiver.exe
+C:\Users\wen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Receiver\obj\Debug\Receiver.pdb
